@@ -5,7 +5,7 @@ A comprehensive repository for Excel-based sales data analytics, featuring a col
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer Net Sales Performance Report]_(https://github.com/Akshay107app/Excel_Sales_Analytics-project-/blob/main/EX10LSProject%20Priority%20Matrix_Beautified.pdf)
+    **1.** Create a _[Customer Net Sales Performance Report](https://github.com/Akshay107app/Excel_Sales_Analytics-project-/blob/main/EX10LSProject%20Priority%20Matrix_Beautified.pdf)
 
     **2.** Conduct a comprehensive comparison between 
 
