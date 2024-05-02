@@ -7,7 +7,7 @@ A comprehensive repository for Excel-based sales data analytics, featuring a col
 
     **1.** Create a _[Customer Net Sales Performance Report](https://github.com/Akshay107app/Excel_Sales_Analytics-project-/blob/main/EX10LSProject%20Priority%20Matrix_Beautified.pdf)
 
-    **2.** Conduct a comprehensive comparison between 
+    **2.** Conduct a comprehensive comparison between _[Net sales Performance](https://github.com/Akshay107app/Excel_Sales_Analytics-project-/blob/main/EX9LS9Sales_reporteltex8.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
