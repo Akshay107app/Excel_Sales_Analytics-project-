@@ -22,7 +22,7 @@ A comprehensive repository for Excel-based sales data analytics, featuring a col
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Akshay107app/Excel_Sales_Analytics-project-/blob/main/EXE9Country%20wise%20PL%20report.pdf) & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Market Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
