@@ -44,3 +44,13 @@ A comprehensive repository for Excel-based sales data analytics, featuring a col
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+
+
+@article{Sales_report with Excel guide,
+author = {Appani,Akshay},
+journal = {https://github.com/Akshay107app/Excel_Sales_Analytics-project-},
+month = {01},
+title = {{Sales_Analytics Excel}},
+year = {2024}
+}
