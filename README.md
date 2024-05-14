@@ -47,8 +47,8 @@ A comprehensive repository for Excel-based sales data analytics, featuring a col
 
 
 
-- [x] @article Sales_report with Excel guide,
-- [x]author = {Appani,Akshay},
+  ## @article Sales_report with Excel guide,
+- [x]  Appani,Akshay,
 - [x]journal = {https://github.com/Akshay107app/Excel_Sales_Analytics-project- },
 - [x]month = {01},
 - [x]title = {{Sales_Analytics Excel}},
