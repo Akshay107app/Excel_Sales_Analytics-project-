@@ -1,7 +1,7 @@
 ## Sales Insights Data Analysis Project
 
 
-This is alerners project Done with the help of Code basics tutorials.
+This is a lerners project Done with the help of Code basics tutorials.
 
 
 ### Data Analysis Using SQL
